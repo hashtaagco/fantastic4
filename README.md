@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/hashtaagco/fantastic4/raw/master/src/assets/imgs/logo_inverted.png" alt="Fantastic 4 Logo">
 <br/>
-[![Build Status](https://travis-ci.org/hashtaagco/fantastic4.svg?branch=master)](https://travis-ci.org/hashtaagco/fantastic4)
+<a href="https://travis-ci.org/hashtaagco/fantastic4"><img src="https://travis-ci.org/hashtaagco/fantastic4.svg?branch=master"/></a>
 </p>
 <br />
 <p align="center">
