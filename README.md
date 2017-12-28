@@ -16,6 +16,6 @@ All you need is `ng` cli i.e. Angular Cli installed on your system.
 
 Use this command to install `npm install -g @angular/cli`. Once it completes installation then follow these steps:
  
-    * Clone the repository `git clone https://github.com/hashtaagco/fantastic4.git -o YOUR_APP_NAME`. Replace `YOUR_APP_NAME` with your app name.
-    * Run `npm install` to install all required dependencies.
-    * After successfull installation run `ng serve` or `npm start` to run your application.
+* Clone the repository `git clone https://github.com/hashtaagco/fantastic4.git -o YOUR_APP_NAME`. Replace `YOUR_APP_NAME` with your app name.
+* Run `npm install` to install all required dependencies.
+* After successfull installation run `ng serve` or `npm start` to run your application.
