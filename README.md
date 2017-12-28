@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/hashtaagco/fantastic4/raw/master/src/assets/imgs/logo_inverted.png" alt="Fantastic 4 Logo"></p>
+
 # Fantastic 4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
