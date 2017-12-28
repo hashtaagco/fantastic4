@@ -1,6 +1,7 @@
 <p align="center"><img src="https://github.com/hashtaagco/fantastic4/raw/master/src/assets/imgs/logo_inverted.png" alt="Fantastic 4 Logo">
 <br/>
 <a href="https://travis-ci.org/hashtaagco/fantastic4"><img src="https://travis-ci.org/hashtaagco/fantastic4.svg?branch=master"/></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"/></a>
 </p>
 <br />
 <p align="center">
