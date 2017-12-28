@@ -1,4 +1,7 @@
-<p align="center"><img src="https://github.com/hashtaagco/fantastic4/raw/master/src/assets/imgs/logo_inverted.png" alt="Fantastic 4 Logo"></p>
+<p align="center"><img src="https://github.com/hashtaagco/fantastic4/raw/master/src/assets/imgs/logo_inverted.png" alt="Fantastic 4 Logo">
+<br/>
+[![Build Status](https://travis-ci.org/hashtaagco/fantastic4.svg?branch=master)](https://travis-ci.org/hashtaagco/fantastic4)
+</p>
 <br />
 <p align="center">
     <strong><a target="_blank" href="https://angular.io">Angular 4</a></strong> &middot;
