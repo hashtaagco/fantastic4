@@ -1,30 +1,15 @@
 <p align="center"><img src="https://github.com/hashtaagco/fantastic4/raw/master/src/assets/imgs/logo_inverted.png" alt="Fantastic 4 Logo"></p>
+<br />
+<p align="center">
+    <strong><a href="https://angular.io">Angular 4</a></strong> &middot;
+    <strong><a href="http://getbootstrap.com/">Bootstrap 4</a></strong> &middot;
+    <strong><a href="https://datatables.net/">jQuery Datatables</a></strong> &middot;
+    <strong><a href="https://limonte.github.io/sweetalert2/">SweetAlert2</a></strong>
+</p>
 
-# Fantastic 4
+# About
+Fantastic 4 is a package of frameworks/libraries and a few set of pre-written components which will help you to kickstart your next Angular 4 web application project.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# Getting Started
+All you need is `ng` cli i.e. Angular Cli installed on your system.
+Use this command to install `npm install -g @angular/cli`
